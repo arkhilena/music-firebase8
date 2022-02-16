@@ -1,4 +1,4 @@
-# muso-ninjas
+# music
 
 ## Project setup
 ```
