@@ -4,13 +4,12 @@ import 'firebase/auth'
 import 'firebase/storage'
 
 const firebaseConfig = {
-  apiKey: "AIzaSyCFiRmKZ-8r8TvdADjOs3WU9_Bd4351H04",
-  authDomain: "muso-ninjas-udemy-sandbox.firebaseapp.com",
-  databaseURL: "https://muso-ninjas-udemy-sandbox.firebaseio.com",
-  projectId: "muso-ninjas-udemy-sandbox",
-  storageBucket: "muso-ninjas-udemy-sandbox.appspot.com",
-  messagingSenderId: "107252349673",
-  appId: "1:107252349673:web:1a86c314fcff4de47bce78"
+  apiKey: "AIzaSyCEXS1zz_5tm8-hH4c6JrYofynGuF6P85g",
+  authDomain: "music-fb8.firebaseapp.com",
+  projectId: "music-fb8",
+  storageBucket: "music-fb8.appspot.com",
+  messagingSenderId: "213160927969",
+  appId: "1:213160927969:web:e2e979d7cebe907d0c4da0"
 };
 
 // init firebase
